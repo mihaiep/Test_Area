@@ -1,8 +1,8 @@
-CALENDAR_FILTER="Node.js Community Committee"
+CALENDAR_FILTER="Node.js End User Feedback Meeting"
 CALENDAR_ID="nodejs.org_nr77ama8p7d7f9ajrpnu506c98@group.calendar.google.com"
 USER="nodejs"
-REPO="community-committee"
-GROUP_NAME="Community Committee"
+REPO="nodejs/user-feedback"
+GROUP_NAME="User Feedback"
 AGENDA_TAG=cc-agenda
 JOINING_INSTRUCTIONS="
 
