@@ -202,8 +202,7 @@
   
   
   ## Upcoming Meetings
-* The next meeting is scheduled for Friday, 2018-05-11 at 17:00 UTC / noon ET / 11am CT / 9am PT.
-* Node.js Foundation Calendar: https://nodejs.org/calendar
+
 * Click +GoogleCalendar at the bottom right to add to your own calendar.
 
 
