@@ -5,7 +5,7 @@
 * **GitHub Issue**: https://github.com/nodejs/user-feedback/issues/58
 * **Minutes Google Doc**: https://docs.google.com/document/d/1kswsnzh5ziblp3mcrKS8S3_UPGo7EK5MLybIoDCqxDM/ 
 * **Survey for typing**  issue [#61](https://github.com/nodejs/user-feedback/issues/61) 
-* Next meeting: issue [#64](https://github.com/nodejs/user-feedback/issues/64)
+* **Next meeting: issue [#64](https://github.com/nodejs/user-feedback/issues/64)**
 
 ## Present
 
