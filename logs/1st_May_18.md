@@ -35,7 +35,7 @@
 
 ### Intro by Dan. 
 * Aaron entered a set of topics for discussion. 
-**Thanks Aaron Bartell, Aaron Heckmann, Nikolay Matvienko for participating!**
+* **Thanks Aaron Bartell, Aaron Heckmann, Nikolay Matvienko for participating!**
 * Aaron Bartell: the challenge that we have and it’s on github issue is that IBM i, is traditionally used by a lot of 
   insurance    companies, auto manufactures, banks-medium to large companies that are looking what’s my modernization path, 
   they are reviewing  Node.Js, but are struggling through all the things that they’re reading online, so here’s is the big issue.
@@ -143,18 +143,29 @@
   legitimization  of was it is just of fisher price mode, there’s Node.Js thing can it really be used for these  types of things.
 * Tierney: Node.Js foundation has actually done a few case studies with major users of Node, I can FW those. 
 * Aaron B: Those cases aren’t going that deep, so t’s great for CEO, because PayPal went before him and JP Morgan went before him,
-   but once it get down to the geeks, the Java coders that love  their environment today they want to see that justification; 
-   so a testimonial of an existing Java coder who gives examples of here’s how I succeeded in my career and helped my business,
-   moving to Node.Js there’s things like that, that could be put on a legitimate site Nodejs.org would mean a lot.
+  but once it get down to the geeks, the Java coders that love  their environment today they want to see that justification; 
+  so a testimonial of an existing Java coder who gives examples of here’s how I succeeded in my career and helped my business,
+  moving to Node.Js there’s things like that, that could be put on a legitimate site Nodejs.org would mean a lot.
 * Michael: If you could capture that list, as a group we could come up with answers. I’m sure once we do that we can get those 
-   to Node.Js web sites , because the Foundation is very interested in helping to push those kind of things as well.
-Tierney: If you’re interested in machine learning and Node.Js there’s now no tensorflow that was announced at Google 
-Dan: I hosted an event up in Toronto and we had Cuhady the CTO of Condenast, come and share some of the ways they're adopted, to modernize the business across the board moved to the platform of the Node to embrace the agility of the platform; they are now incorporating blockchain  and AI and other compute-intensive projects into their ecosystem , and rather than force all of the machine learning folks to adopt node the approach they use around AI is: we’re going hire talented machine learning developers and let them work in the native language they are proficient in, and then everything they deliver to the apps is exposed via API, and most of that’s written with Node.
-Debugging Node: Tierney: We need to fully implement source maps. That will help us get debug ability back for those transplant languages.
-Michael: I wonder about a survey. What do we need to do to support typing since we now think it’s important and prioritize some of the things that would make that. Kind of questions that tease out that, people want types, but they’re not really gonna  use it seriously until it’s part of the language or is running an extra tool that helps you use them acceptable or not, because it will help us decide where we should advocate; if it’s a project though type is important for the success of Node maybe we should be pushing a TC39.
-Dan: Nikolay are you seeing folks adopting typescripts and if so why?
-Nikolay: I like a freedom of weak type or streak type in Javascript and in Russia we have a lot of companies that for example use a closure to Node.Js, because they have a closure  developers or types, or Jetbrains. 
-Michael: With the group here can we come up with a set of question? (#61)
+  to Node.Js web sites , because the Foundation is very interested in helping to push those kind of things as well.
+* Tierney: If you’re interested in machine learning and Node.Js there’s now no tensorflow that was announced at Google. 
+* Dan: I hosted an event up in Toronto and we had Cuhady the CTO of Condenast, come and share some of the ways they're adopted,
+  to modernize the business across the board moved to the platform of the Node to embrace the agility of the platform; 
+  they are now incorporating blockchain  and AI and other compute-intensive projects into their ecosystem , and rather 
+  than force all of the machine learning folks to adopt node the approach they use around AI is: we’re going hire 
+  talented machine learning developers and let them work in the native language they are proficient in, and then 
+  everything they deliver to the apps is exposed via API, and most of that’s written with Node.
+* Debugging Node: Tierney: We need to fully implement source maps. That will help us get debug ability back for those 
+  transplant languages.
+* Michael: I wonder about a survey. What do we need to do to support typing since we now think it’s important and prioritize
+  some of the things that would make that. Kind of questions that tease out that, people want types, but they’re not really
+  gonna  use it seriously until it’s part of the language or is running an extra tool that helps you use them acceptable or not,
+  because it will help us decide where we should advocate; if it’s a project though type is important for the success 
+  of Node maybe we should be pushing a TC39.
+* Dan: Nikolay are you seeing folks adopting typescripts and if so why?
+* Nikolay: I like a freedom of weak type or streak type in Javascript and in Russia we have a lot of companies that for
+  example use a closure to Node.Js, because they have a closure  developers or types, or Jetbrains. 
+* Michael: With the group here can we come up with a set of question? see [#61](https://github.com/nodejs/user-feedback/issues/61)
 
 
 
