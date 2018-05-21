@@ -166,7 +166,7 @@
 * Dan: Nikolay are you seeing folks adopting typescripts and if so why?
 * Nikolay: I like a freedom of weak type or streak type in Javascript and in Russia we have a lot of companies that for
   example use a closure to Node.Js, because they have a closure  developers or types, or Jetbrains. 
-* Michael: With the group here can we come up with a set of question? see [#61](https://github.com/nodejs/user-feedback/issues/61)
+* Michael: With the group here can we come up with a set of question? see **[#61](https://github.com/nodejs/user-feedback/issues/61)**
 
 
 
