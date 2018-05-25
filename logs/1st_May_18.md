@@ -170,8 +170,7 @@
 
 
 
-## Upcoming Meetings
-https://github.com/nodejs/user-feedback/issues/64 
+#
 
 * **Node.js Foundation Calendar**: https://nodejs.org/calendar
 
