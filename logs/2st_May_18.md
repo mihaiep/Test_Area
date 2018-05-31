@@ -1,8 +1,8 @@
 ## Links
 
 * **Recording**:https://www.youtube.com/watch?v=zpPq9USuZvk 
-* **GitHub Issue**: $GITHUB_ISSUE$ [#64](https://github.com/nodejs/user-feedback/issues/64)
-* **Minutes Google Doc**: $MINUTES_DOC$ [Doc](https://docs.google.com/document/d/19vcsnk6Fiyfc-PmvezowTAuviKnQh4nrjQYAdE_Fbms/ )
+* **GitHub Issue**: [#64](https://github.com/nodejs/user-feedback/issues/64)
+* **Minutes Google Doc**: [Doc](https://docs.google.com/document/d/19vcsnk6Fiyfc-PmvezowTAuviKnQh4nrjQYAdE_Fbms/ )
 * **Next meeting: Public User Feedback focused on tooling 06.08.2018- [#59](https://github.com/nodejs/user-feedback/issues/59)**
 
 
