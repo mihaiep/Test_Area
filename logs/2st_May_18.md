@@ -13,7 +13,6 @@
 * Tierney Cyren (@bnb)
 * Mihai Ene-Pietrosanu (@mihaiep)
 
-
 ## Agenda
 
 ## Announcements
@@ -23,7 +22,6 @@
 ### nodejs/user-feedback
 
 * Public User Feedback request - European General User Feedback at WorkerConf [#56](https://github.com/nodejs/user-feedback/issues/56)
-
 * Invite Node.js tooling ecosystem folks to discuss user feedback [#37](https://github.com/nodejs/user-feedback/issues/37)
 
 ### Notes: Intro by Dan
