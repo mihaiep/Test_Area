@@ -13,7 +13,8 @@
 * https://docs.google.com/document/d/1bP7fdN-mf47SJcNEfWm_F2EbcpSgDEEyw4tIhRMDpPg/edit 
 
 ##
-From Christopher Hiller to All Panelists:  09:51 AM
+
+* From Christopher Hiller to All Panelists:  09:51 AM
 in python: os is low-level fs stuff, shutil is high-level
 From Gus Caplan to Everyone:  09:58 AM
 so being able to have a complete isolation between you and the “untrusted” code
