@@ -14,7 +14,7 @@
 
 ##
 
-* From Live Chat: from Christopher Hiller to All Panelists:  09:51 AM
+* **From Live Chat:** from Christopher Hiller to All Panelists:  09:51 AM
  in python: os is low-level fs stuff, shutil is high-level
  * From Gus Caplan to Everyone:  09:58 AM so being able to have a complete isolation between you and the 
    “untrusted” code; I was about to mention that process.exit will just kill the thread instead of the process
@@ -23,8 +23,5 @@
    thats been such an issue that tc39 is trying to think of some new type apis for it
    as realms come up.
  * also improving communication; vm was never intended to be a security mechanism, 
-and its pretty apparent how many people get confused about it
-
-it’s that word "sandbox"
-maybe the language shoudl be changed or 
-there should be qualifiers in the docs
+   and its pretty apparent how many people get confused about it. 
+  * it’s that word "sandbox" maybe the language shoudl be changed or there should be qualifiers in the docs.
