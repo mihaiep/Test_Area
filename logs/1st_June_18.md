@@ -1,13 +1,13 @@
-## Node.js Foundation User Feedback Meeting 2018-06-08: Tooling Feedback Session
+## User Feedback Meeting 2018-06-08: Tooling Feedback Session
 
-## Links
+### Links
 
 * **Recording**:https://www.youtube.com/watch?v=8NCutuQx5Qk 
 * **GitHub Issue**: [#68](https://github.com/nodejs/user-feedback/issues/68)
 * **Minutes Google Doc**: https://docs.google.com/document/d/1bP7fdN-mf47SJcNEfWm_F2EbcpSgDEEyw4tIhRMDpPg
 * **Discussion focused on tooling** [59](https://github.com/nodejs/user-feedback/issues/59) 
 
-## Time
+### Time
 * Friday, June 8th 2018 16:00 UTC
 * Attendees
   * Michael Dawson (@mhdawson)
@@ -18,7 +18,7 @@
   * Chris Barber
   * Gus Caplan
  
-## Notes
+### Notes
 * We will gather user feedback from Tooling group. For this session, I've selected a few "hot-button" issues from #59 
   which we will   discuss:
   Cross-platform problems (fs, child_process)
