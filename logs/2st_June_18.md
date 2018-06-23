@@ -4,6 +4,7 @@
 * **Recording**:https://www.youtube.com/watch?v=YbH3k1-Vo6w 
 * **GitHub Issue**: #72
 * **Minutes Google Doc** https://docs.google.com/document/d/1v9iX6RyCjINL6gbes1bSOVN93-vbxuVvAwzsF83kchI  
+* **[General Public Meeting 07.16.2018, 9AM Pacific time](https://github.com/nodejs/user-feedback/issues/74)
 
 ## Present
 
