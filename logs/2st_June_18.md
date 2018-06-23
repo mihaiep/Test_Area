@@ -101,7 +101,7 @@ Tierney: We do have to begin to try to correlate the data that we have or that d
 
 
 ## Upcoming Meetings: 
-  * 2018-07-06 User feedback meeting: Guests: Ben and Ahmad 
+  * **[2018-07-06 User feedback meeting: Guests: Ben and Ahmad](https://github.com/nodejs/user-feedback/issues/73)**
   * **[2018-07-16 Public User Feedback meeting](https://github.com/nodejs/user-feedback/issues/74)** 
 
 * **Node.js Foundation Calendar**: https://nodejs.org/calendar
