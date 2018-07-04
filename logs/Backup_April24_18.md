@@ -199,8 +199,7 @@
   * (parallel with http archive.org)
 * Michael: What can we sort of document and recommend and ask enterprises can do, validate the current so that the LTS
   is as good as it possibly can be (next topic).
-  
-  
+    
   ## Upcoming Meetings
 
 * Click +GoogleCalendar at the bottom right to add to your own calendar.
