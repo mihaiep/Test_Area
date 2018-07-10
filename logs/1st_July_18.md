@@ -30,7 +30,7 @@
 ## Q&A, Other
 
 ## Notes
-* **Many thanks to our guest today Benjamin, Ahmad and Jordan.**
+* **Many thanks to our guests today Benjamin, Ahmad and Jordan.**
 * Intro by Dan Shaw
 *
 
