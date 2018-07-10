@@ -7,30 +7,32 @@
 
 ## Present
 
-Dan Shaw - @dshaw 
-Benjamin Gruenbaum - @benjamingr
-Ahmad Nassri - @AhmadNassri
-Mihai Ene-Pietrosanu - @mihaiep
-
+* Dan Shaw - @dshaw 
+* Benjamin Gruenbaum - @benjamingr
+* Ahmad Nassri - @AhmadNassri
+* Mihai Ene-Pietrosanu - @mihaiep
+* Michael Dawson - @mhdawson
+* Tierney Cyren - @bnb
+* Jordan Harband - @ljharb
 
 * User Feedback Members: @nodejs/user-feedback
-
-
-
 
 ## Agenda
 
 ## Announcements
 
-*Extracted from **user-feedback-meeting** labelled issues and pull requests from the **nodejs org** prior to the meeting.
+* Extracted from **user-feedback-meeting** labelled issues and pull requests from the **nodejs org** prior to the meeting.
 
 ### nodejs/user-feedback
 
 * Public User Feedback request - European General User Feedback at WorkerConf [#56](https://github.com/nodejs/user-feedback/issues/56)
 
-
-
 ## Q&A, Other
+
+## Notes
+* **Many thanks to our guest today Benjamin, Ahmad and Jordan.**
+* Intro by Dan Shaw
+*
 
 ## Upcoming Meetings
 
