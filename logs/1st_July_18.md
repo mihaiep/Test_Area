@@ -32,7 +32,7 @@
 ## Notes
 * **Many thanks to our guests today Benjamin, Ahmad and Jordan.**
 * Intro by Dan Shaw
-*
+* 
 
 ## Upcoming Meetings [#74](https://github.com/nodejs/user-feedback/issues/74)
 
