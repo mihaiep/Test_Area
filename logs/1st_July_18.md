@@ -4,10 +4,9 @@
 * **Recording**: https://www.youtube.com/watch?v=ehTHsDTGbRM
 * **GitHub Issue**: #76
 * **Minutes Google Doc**: Doc
-* **[Promises Github Issue](https://github.com/nodejs/user-feedback/issues/77)
+* **[Promises Github Issue](https://github.com/nodejs/user-feedback/issues/77)**
 
 ## Present
-
 * Dan Shaw - @dshaw 
 * Benjamin Gruenbaum - @benjamingr
 * Ahmad Nassri - @AhmadNassri
