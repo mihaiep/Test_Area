@@ -36,3 +36,7 @@ Monday, 2018-07-16 at 17:00 UTC / noon ET / 11am CT / 9am PT
 * Join link for invited members and participants: https://zoom.us/j/353642832
 * There is a standing invitation for all @nodejs/TSC and @nodejs/community-committee members to attend 
   in listen to feedback.
+
+### Notes
+* We didnt' have external guest today. It was becoming an internal meeting.
+* No recording, no Youtube recording
