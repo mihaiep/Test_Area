@@ -38,5 +38,5 @@ Monday, 2018-07-16 at 17:00 UTC / noon ET / 11am CT / 9am PT
   in listen to feedback.
 
 ### Notes
-* We didnt' have external guest today. It was becoming an internal meeting.
+* We didn't have external guests today. General meeting becomed an internal meeting.
 * No recording, no Youtube recording
