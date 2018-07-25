@@ -42,3 +42,5 @@ Monday, 2018-07-16 at 17:00 UTC / noon ET / 11am CT / 9am PT
 * No recording, no Youtube recording
 * Present: Dan, Michael, Tierney, Mihai.
 * We talked about internal organizing:
+
+* Next meeting: monday 07.30.2018
