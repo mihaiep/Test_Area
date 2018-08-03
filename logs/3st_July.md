@@ -9,14 +9,14 @@
 ## Present
 
 * User Feedback Members: @nodejs/user-feedback
-* Dan Shaw
-* Michael Dawson
-* Mihai Ene-Pietrosanu
-
-
-
+* Dan Shaw @dshaw 
+* Michael Dawson @mhdawson 
+* Mihai Ene-Pietrosanu @mihaiep
 
 ## Agenda
+
+Public User Feedback request - [#77](https://github.com/nodejs/user-feedback/issues/77)
+
 
 ## Announcements
 
@@ -34,7 +34,7 @@
 * Discussion around the thread/questions from the issue #77 updated, comments had been made.  We have 10 participants into this discussion initiated by Benjamin, more comments are welcome. Probably this discussion will be moved to a Google doc, easier to comment and participate.
 * there is a baseline of technical questions, with the survey we want to make sure we will capture quantifiable answers. 
 * We should not have status on readme file. Action item modify readme and add tooling and enterprise.
-* The first virtual meetup: issue created #82 https://github.com/nodejs/user-feedback/issues/82 -Michael proposal mid to late September.
+* The first virtual meetup: issue created #82 https://github.com/nodejs/user-feedback/issues/82 -Michael proposal: mid to late September.
 
 
 ## Upcoming Meetings
