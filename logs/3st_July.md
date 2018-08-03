@@ -28,6 +28,8 @@
 
 
 ## Q&A, Other
+## Notes
+* Intro by Dan
 
 ## Upcoming Meetings
 
