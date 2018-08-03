@@ -1,13 +1,16 @@
 # Node.js Foundation User Feedback Meeting 2018-07-30
 ## Links
 
-* **Recording**:
-* **GitHub Issue**: $GITHUB_ISSUE$
-* **Minutes Google Doc**: $MINUTES_DOC$
+* **Recording**:https://www.youtube.com/watch?v=w3Pwees_Lrw&t=62s
+* **GitHub Issue**: [#80](https://github.com/nodejs/user-feedback/issues/80)
+* **Minutes Google Doc**: [Minutes](https://docs.google.com/document/d/15uNtsP2apyU7Jza_tksp2UcXI7Ed06i90YdjVNG6xDw)
 
 ## Present
 
 * User Feedback Members: @nodejs/user-feedback
+* Dan Shaw
+* Michael Dawson
+* Mihai Ene-Pietrosanu
 
 
 
