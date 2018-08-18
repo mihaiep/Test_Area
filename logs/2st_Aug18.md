@@ -1,7 +1,7 @@
-2018-08-16 End User Feedback Meeting - Enterprise Use Case
-Time
+# 2018-08-16 End User Feedback Meeting - Enterprise Use Case
+## Time
 Thursday, 2018-08-16 at 17:00 UTC / noon ET / 11am CT / 9am PT
-Links
+## Links
 Minutes Doc: TBD
 Previous Minutes Doc: TBD
 Youtube recording https://www.youtube.com/watch?v=mDE6G6I180w 
