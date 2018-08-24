@@ -61,12 +61,12 @@ Thursday, 2018-08-16 at 17:00 UTC / noon ET / 11am CT / 9am PT
 * Mihai: Ahmad you should open an to follow up or for tracking purposes.
  
 * (DanS) Node.js follow-up points:
-* State of documentation
-* Join the Node.js Foundation
+  * State of documentation
+  * Join the Node.js Foundation
 * @dshaw I'd also like to add:
-* Security releases and how they affect version pinning
-* Ahmad Some interesting prior art from the CNCF around effectively what we were talking
-* about Ahmad: https://www.cncf.io/certification/kcsp/
+  * Security releases and how they affect version pinning
+  * Ahmad Some interesting prior art from the CNCF around effectively what we were talking
+  * about Ahmad: https://www.cncf.io/certification/kcsp/
 
 * Node.js Foundation Calendar: https://nodejs.org/calendar
   * Click +GoogleCalendar at the bottom right to add to your own Google calendar.
