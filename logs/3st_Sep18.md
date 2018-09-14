@@ -1,8 +1,8 @@
-## 
+## Node.js Foundation User Feedback Meeting 2018-09-14
 ## Links
 
-* **Recording**:
-* **GitHub Issue**: $GITHUB_ISSUE$
+* **Recording**:https://www.youtube.com/watch?v=00YONf8MrIs
+* **GitHub Issue**: [91](https://github.com/nodejs/user-feedback/issues/91)
 * **Minutes Google Doc**: $MINUTES_DOC$
 
 ## Present
