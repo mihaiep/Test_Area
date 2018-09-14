@@ -3,12 +3,14 @@
 
 * **Recording**:https://www.youtube.com/watch?v=00YONf8MrIs
 * **GitHub Issue**: [91](https://github.com/nodejs/user-feedback/issues/91)
-* **Minutes Google Doc**: $MINUTES_DOC$
+* **Minutes Google Doc**: [Minutes](https://docs.google.com/document/d/1082uJlCb9ar9VThHI1ZRqfy9K2lpHtszSPGWkTfh53A/)
 
 ## Present
 
 
-* User Feedback Members: @nodejs/user-feedback
+* User Feedback Members: @nodejs/user-feedback: Dan Shaw, Michael Dawson, Mihai Ene-Pietrosanu, Ahmad Nassri
+* Joe Sepi (@joesepi)
+* Agiri
 
 
 
@@ -27,6 +29,10 @@
 * Survey for strong(er) typing [#61](https://github.com/nodejs/user-feedback/issues/61)
 
 ## Notes
+* **Highlights:**
+  * We have a new potential memeber Joe Sepi. Thank you Joe! helping on issue [77](https://github.com/nodejs/user-feedback/issues/77)
+  * **Action item**: Michael D. follow up with Chris on tooling (expectansions). 
+  
 
 ## Q&A, Other
 
