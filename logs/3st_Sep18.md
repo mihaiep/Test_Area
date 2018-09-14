@@ -13,8 +13,6 @@
 * Agiri
 
 
-
-
 ## Agenda
 
 ## Announcements
@@ -30,8 +28,14 @@
 
 ## Notes
 * **Highlights:**
+  * We got a max of 14 people in the Meetup and about 140 people on the group! **Thank you Dan! Thank you Michael&Rich for the great presentations at the Meetup.** 
   * We have a new potential memeber Joe Sepi. Thank you Joe! helping on issue [77](https://github.com/nodejs/user-feedback/issues/77)
-  * **Action item**: Michael D. follow up with Chris on tooling (expectansions). 
+  * **Action item**: Michael follow up with Chris on Tooling (expectansions). 
+* Minutes:
+   * Intro/talk about User Feedback and initiatives: by Dan and Michael.
+   * Michael: we needed to go to sort of the non-core node channels to get this group of people (Meetup)
+   * Dan: one way is to go on Node.js Twitter https://twitter.com/nodejs . We need promotions on different channels.
+   * Talked about typing [Issue 61](https://github.com/nodejs/user-feedback/issues/61). Can we do something about it? 
   
 
 ## Q&A, Other
