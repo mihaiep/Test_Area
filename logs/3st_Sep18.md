@@ -8,7 +8,8 @@
 ## Present
 
 
-* User Feedback Members: @nodejs/user-feedback: Dan Shaw, Michael Dawson, Mihai Ene-Pietrosanu, Ahmad Nassri
+* User Feedback Members: @nodejs/user-feedback: 
+* Dan Shaw, Michael Dawson, Mihai Ene-Pietrosanu, Ahmad Nassri
 * Joe Sepi (@joesepi)
 * Agiri
 
