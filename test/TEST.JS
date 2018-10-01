@@ -16,3 +16,10 @@ function myFunction() {
 
 </body>
 </html> 
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
