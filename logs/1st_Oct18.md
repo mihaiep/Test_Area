@@ -3,7 +3,7 @@
 
 * **Recording**:
 * **GitHub Issue**: $GITHUB_ISSUE$
-* **Minutes Google Doc**: $MINUTES_DOC$
+* **Minutes Google Doc**: [Minutes](https://docs.google.com/document/d/1S0_EbHtkJBfr5fOuu8ag-AsuLzYhUXNpQk8RTba_4H0)
 
 ## Present
 
