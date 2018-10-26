@@ -8,9 +8,14 @@
 ## Present
 
 * User Feedback Members: @nodejs/user-feedback
-
-
-
+Dan Shaw @dshaw
+Michael Dawson @mhdawson
+Tierney Cyren @bnb
+Mihai Ene-Pietrosanu @mihaiep
+Christopher Hiller @boneskull
+Joe Sepi @joesepi
+Agiri Abraham Jr @codeekage
+Ahmad Nassri @ahmadnassri
 
 ## Agenda
 
