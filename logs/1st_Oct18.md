@@ -8,14 +8,14 @@
 ## Present
 
 * User Feedback Members: @nodejs/user-feedback
-Dan Shaw @dshaw
-Michael Dawson @mhdawson
-Tierney Cyren @bnb
-Mihai Ene-Pietrosanu @mihaiep
-Christopher Hiller @boneskull
-Joe Sepi @joesepi
-Agiri Abraham Jr @codeekage
-Ahmad Nassri @ahmadnassri
+  * Dan Shaw @dshaw
+  * Michael Dawson @mhdawson
+  * Tierney Cyren @bnb
+  * Mihai Ene-Pietrosanu @mihaiep
+  * Christopher Hiller @boneskull
+  * Joe Sepi @joesepi
+  * Agiri Abraham Jr @codeekage
+  * Ahmad Nassri @ahmadnassri
 
 ## Agenda
 
@@ -33,7 +33,7 @@ Ahmad Nassri @ahmadnassri
 * Public User Feedback request - Promises [#77](https://github.com/nodejs/user-feedback/issues/77)
 * Survey for strong(er) typing [#61](https://github.com/nodejs/user-feedback/issues/61)
 
-
+* **Notes**
 
 ## Q&A, Other
 
