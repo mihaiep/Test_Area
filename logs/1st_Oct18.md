@@ -33,7 +33,7 @@
 * Public User Feedback request - Promises [#77](https://github.com/nodejs/user-feedback/issues/77)
 * Survey for strong(er) typing [#61](https://github.com/nodejs/user-feedback/issues/61)
 
-* **Notes**
+### Notes
 
 ## Q&A, Other
 
