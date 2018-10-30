@@ -56,7 +56,7 @@
 * Ahmad: monitor and collect data output from discord forum 
 * Michael: There’s other discussion like there’s a module which just hasn’t been up updated it’s downloaded 3 million times a week, it will be nice to know if there were five of those modules they will be really good to know that, because in the context of wanted people to move up to ten what could we do?
 * Dan: I think it’s a great opportunity to look at these moments in time like the LTS release and what sort of things we can be doing to support other things that are happening in the project. Also, that enterprise newsletter could be solved by having a discussion list, you subscribe to a topic on the discussion list  and you go from there.
-* Michael: Im going to send an FYI to the TSC and comm.comm with the link to that issue and then as long as nobody complains all asks either just to promote it through the Twitter account in the next little while. 
+* Michael: I'm going to send an FYI to the TSC and comm.comm with the link to that issue and then as long as nobody complains all asks either just to promote it through the Twitter account in the next little while. 
 
 
 ## Q&A, Other
