@@ -48,7 +48,7 @@
 * Tierney: Zibby. If we want to use the existing work like the prior art that would be the LF mailing list.
 * Michael: You want an infrastructure that will manage people locking in and out of their mailing list, I guess.
 * Ahmad: It doesn’t have to be an infrastructure it just has to be something separate than public groups so here’s a workflow: if it’s coming from enterprise at node.js.org or something similar that would like this thing distinction for somebody to look in their inbox, they know that this is something to look after and we can add people manually to it, but as long as we’re able to trigger that communication through a centralized thing.
-* Michael: We should ask Zippy that there’s something that the Linux Foundation has to help us. 
+* Michael: We should ask Zibby that there’s something that the Linux Foundation has to help us. 
 * Tierney: If we are doing manually emails, it shouldn’t be a problem, but if we want to move from manual careful about GDPR, which they handle very carefully.
 * Michael: If you want to give me an action, I can do that , hopefully will be an easy answer.
 * Ahmad: We probably want to have a process in which we announced all the working groups that if you have something to ask or to leverage the enterprise connections that we have what is the mechanism to do that? We can have a part of the github repo or issues label, format the email or something.
