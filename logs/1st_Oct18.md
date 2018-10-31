@@ -46,7 +46,7 @@
 * Dan: The Enterprise group would only hear from their focus area?
 * Ahmad: My next action is to schedule another community meeting for the enterprise group, but as a requirement for that I think like having that email signup / newsletter/ method of communication, beyond just me sending emails to individuals so people can opt into that conversation and then we can make it easier for follow-ups, especially as we want to start asking for the different working groups what actions they might want to surface whether it’s a survey or  an engagement of some sort so we can make it more structured. Again, the newsletters how would that work? Who would be the person to help?
 * Tierney: Zibby. If we want to use the existing work like the prior art that would be the LF mailing list.
-* Michael: You want an infrastructure that will manage people locking in and out of their mailing list, I guess.
+* Michael: 
 * Ahmad: It doesn’t have to be an infrastructure it just has to be something separate than public groups so here’s a workflow: if it’s coming from enterprise at node.js.org or something similar that would like this thing distinction for somebody to look in their inbox, they know that this is something to look after and we can add people manually to it, but as long as we’re able to trigger that communication through a centralized thing.
 * Michael: We should ask Zibby that there’s something that the Linux Foundation has to help us. 
 * Tierney: If we are doing manually emails, it shouldn’t be a problem, but if we want to move from manual careful about GDPR, which they handle very carefully.
