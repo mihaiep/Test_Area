@@ -19,7 +19,6 @@
 ## Agenda
 
 ## Announcements
-
 *Extracted from **user-feedback-meeting** labelled issues and pull requests from the **nodejs org** prior to the meeting.
 
 ### nodejs/community-committee
