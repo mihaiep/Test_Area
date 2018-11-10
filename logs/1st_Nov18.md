@@ -16,7 +16,7 @@
 
 ## Announcements
 
-*Extracted from **user-feedback-meeting** labelled issues and pull requests from the **nodejs org** prior to the meeting.
+* Extracted from **user-feedback-meeting** labelled issues and pull requests from the **nodejs org** prior to the meeting.
 
 ### nodejs/community-committee
 
@@ -32,7 +32,7 @@
 ## Q&A, Other
 
 ## Notes
-
+ 
 
 ## Upcoming Meetings
 
