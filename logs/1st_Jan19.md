@@ -2,7 +2,7 @@
 ## Links
 
 * **Recording**:
-* **GitHub Issue**: $GITHUB_ISSUE$
+* **GitHub Issue**: [Issue 112](https://github.com/nodejs/user-feedback/issues/112)
 * **Minutes Google Doc**: $MINUTES_DOC$
 
 ## Present
