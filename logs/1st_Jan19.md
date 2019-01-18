@@ -3,7 +3,7 @@
 
 * **Recording**:
 * **GitHub Issue**: [Issue 112](https://github.com/nodejs/user-feedback/issues/112)
-* **Minutes Google Doc**: $MINUTES_DOC$
+* **Minutes Google Doc**: [Minutes](https://docs.google.com/document/d/1CXUIUmT9RF8h7kfQQBjlnOz7aIhEXA3ucKZfi9f216s/)
 
 ## Present
 
