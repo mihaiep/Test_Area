@@ -29,6 +29,8 @@
 *Establish and document a framework for User Feedback surveys [#131](https://github.com/nodejs/user-feedback/issues/113)
 
 ## Notes
+* Thank you Sofia and Tracy for attending this meeting!
+*
 
 
 ## Q&A, Other
