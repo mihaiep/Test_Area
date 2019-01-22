@@ -1,7 +1,7 @@
 # First meeting of 2019 
 ## Links
 
-* **Recording**:
+* **Recording**: https://www.youtube.com/watch?v=c3lvH2KpM0o
 * **GitHub Issue**: [Issue 112](https://github.com/nodejs/user-feedback/issues/112)
 * **Minutes Google Doc**: [Minutes](https://docs.google.com/document/d/1CXUIUmT9RF8h7kfQQBjlnOz7aIhEXA3ucKZfi9f216s/)
 
