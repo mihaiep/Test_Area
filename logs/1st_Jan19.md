@@ -45,7 +45,7 @@
 * Tracy: Once we have a framework for this, all the meetups that are being run by local meetups around the world, feel like the owners and are going to do it themselves.
  
 ## Q&A, Other
- **Follow-up/New issues**:
+ * **Follow-up/New issues**
     * https://github.com/nodejs/user-feedback/issues/115
     * https://github.com/nodejs/user-feedback/issues/113
 
