@@ -4,9 +4,6 @@
 * **Recording**: https://www.youtube.com/watch?v=c3lvH2KpM0o
 * **GitHub Issue**: [Issue 112](https://github.com/nodejs/user-feedback/issues/112)
 * **Minutes Google Doc**: [Minutes](https://docs.google.com/document/d/1CXUIUmT9RF8h7kfQQBjlnOz7aIhEXA3ucKZfi9f216s/)
-* **Follow-up/New issues**:
-    * https://github.com/nodejs/user-feedback/issues/115
-    * https://github.com/nodejs/user-feedback/issues/113
 
 ## Present
 
@@ -48,6 +45,9 @@
 * Tracy: Once we have a framework for this, all the meetups that are being run by local meetups around the world, feel like the owners and are going to do it themselves.
  
 ## Q&A, Other
+ **Follow-up/New issues**:
+    * https://github.com/nodejs/user-feedback/issues/115
+    * https://github.com/nodejs/user-feedback/issues/113
 
 ## Upcoming Meetings
 
