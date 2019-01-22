@@ -30,7 +30,7 @@
 
 ## Notes
 * Thank you Sofia and Tracy for attending this meeting!
-*
+* Joe Sepi: Updates on surveys: trying to contact Ben and Julien and see if they want to help and move forward on Promises.
 
 
 ## Q&A, Other
