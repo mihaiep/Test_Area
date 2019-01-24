@@ -8,6 +8,7 @@
 ## Present
 
 * User Feedback Members: @nodejs/user-feedback
+* ladyleet
 
 
 ## Agenda
