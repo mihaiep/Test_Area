@@ -1,6 +1,5 @@
 ## Links
-* [ ] make .md file
-* [*] fill the share doc
+
 * **Recording**:
 * **GitHub Issue**: $GITHUB_ISSUE$
 * **Minutes Google Doc**: $MINUTES_DOC$
@@ -8,9 +7,12 @@
 ## Present
 
 * User Feedback Members: @nodejs/user-feedback
-
-
-
+Michael Dawson
+Tracy Lee
+Dan Shaw
+Ahmad Nasli
+Sofia
+Mihai Ene-Pietrosanu
 
 ## Agenda
 
@@ -31,11 +33,27 @@
 
 
 ## Q&A, Other
+# Notes:
+Dan: Joe Sepi is not with us today.  He 4reached out Matteo, and we should align the survey with the current release.
+Issue 82: Update: The release for current is end of the April, May 2 ( Thursday) host: 
+James (what’s new in version 12),
+           -20 min on presentation/talk
+           - 20 min on User Feedback
+ Links: https://github.com/nodejs/release#release-schedule 
+Michelle is willing to host User Feedback PDX. Munil for Vancouver?p
+Issue 77 (Promises) and 61 (stronger typing: Michael: Tierney show interest in this, helping to drive) .  
+Invite somebody from Marketing from Foundation for next meeting 
+Ahmad: Target Thursday April 25 for Enterprise, 10 AM Pacific time
+Follow-up the meeting: we opened 6 new issues: #119,...,#124
+
+
+
+
+.
 
 ## Upcoming Meetings
 
 * **Node.js Foundation Calendar**: https://nodejs.org/calendar
 
 Click `+GoogleCalendar` at the bottom right to add to your own Google calendar.
-
 
