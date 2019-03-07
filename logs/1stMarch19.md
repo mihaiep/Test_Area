@@ -48,15 +48,15 @@
 * Michael: In the end we want to help people into the regular channels, basically Github issues, get the discussion around (for example) “what problems have you experienced upgrading, if they’re related to modules, we can point them to the package maintenance repo, if they’re related to de itself we can point them to the node repo, suggesting tagging with a certain tag (tag Upgrade Problems).
 * Ahmad: In the terms of sequence we asked about upgrade cycles first, then the packages, direct the potential “flood of noise”/ the right repo.
 * Tracy: (draft doc format)  Upcoming User Feedback Session Ideas: 
-      -June: Workers?
-      -Aug: Other technical issues?
-      -Sept: Modules?
-      -Tooling?
-        -Package Maintenance?
-        -Diagnostics?
-        -How easy is it to get involved in the community? What’s working and what’s not?
-        -End user topics-people using node : what are they struggling with? (I’m writing an app,
-          what are   my pain points in using node? 
+      * June: Workers?
+      * Aug: Other technical issues?
+      * Sept: Modules?
+      * Tooling?
+      * Package Maintenance?
+      * Diagnostics?
+      * How easy is it to get involved in the community? What’s working and what’s not?
+      * End user topics-people using node : what are they struggling with? (I’m writing an app,
+        what are   my pain points in using node? 
 * Dan: How can we track that back and have visibility into what we’re generating? How do we measure who run a session/measuring growth of the user feedback session? (issue #133)
 * Michael: As a group, we should review how much feedback, account of the number of comments that we got on these issues we’ve pointed to and correlation to the sessions that take place.
 * Agiri: WEB design survey?
